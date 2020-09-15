@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  AnguloRicardoFinalProject
+
+  Created by Ricardo Angulo on 5/6/20.
+  Copyright © 2020 uscitp342. All rights reserved.
+ email:angulor@usc.edu 
+*/
+"characters" = "carácters disponible";
+
+"miles_away" = "millas de distancia";
+
+"mile_away" = "milla de distancia";
+
+"added" = "¡añadido!";
+
+"destination" = "destination";
+
+"images" = "imágenes";
+
+"saved" = "guardado";
+
+"not_saved" = "Error al guardar";
+
+"Cancel" = "Cancelar";
+
+"Delete" = "Eliminar";
+
+"Delete_Image" = "Eliminar Imagen";
+
+"Check_delete_image" = "¿Estás seguro de que deseas eliminar esta imagen?";
+
+"No_internet_message" = "¡Debe estar conectado a Internet para buscar la dirección!";
+
+"uncompleted_tasks" = "Proyectos incompletos";
+
+"location_error" = "Error de Ubicación";
+
+"location_error_message" = "Otorgue a esta aplicación su acceso de ubicación en la configuración para continuar";
+
+"go_settings" = "Ir a las configuraciónes";
+
+"quote1" = "O corres el día o el día te corre.";
+
+"quote2" = "Creo más en la suerte, y encuentro que cuanto más trabajo, más tengo.";
+
+"quote3" = "La mayoría de la gente pierde la oportunidad porque está vestida con un mono y parece trabajo.";
+
+"quote4" = "Tienes que levantarte todas las mañanas con determinación si te vas a la cama con satisfacción.";
+
+"quote5" = "No juzgues cada día por la cosecha que cosechas, sino por las semillas que siembras.";
+
+"quote6" = "Ya sea que creas que puedes o crees que no puedes, tienes razón.";
+
+"quote7" = "Haz los trabajos duros primero. Los trabajos fáciles se cuidarán solos.";
+
+"quote8" = "Comience haciendo lo que sea necesario, luego lo que sea posible; y de repente estás haciendo lo imposible.";
+
+"quote9" = "No tienes que ver toda la escalera, solo da el primer paso.";
+
+"quote10" = "La felicidad es el verdadero sentido de satisfacción que proviene del trabajo duro.";
+
+"quote11" = "La suerte es una cuestión de preparación, oportunidad de reunión.";

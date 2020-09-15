@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  AnguloRicardoFinalProject
+
+  Created by Ricardo Angulo on 5/6/20.
+  Copyright © 2020 uscitp342. All rights reserved.
+ email:angulor@usc.edu 
+*/
+"characters" = "characters left";
+
+"miles_away" = "miles away";
+
+"mile_away" = "mile away";
+
+"added" = "added!";
+
+"destination" = "destination";
+
+"images" = "images";
+
+"saved" = "saved";
+
+"not_saved" = "Save Failed";
+
+"Cancel" = "Cancel";
+
+"Delete" = "Delete";
+
+"Delete_Image" = "Delete Image";
+
+"Check_delete_image" = "Are you sure you want to delete this image?";
+
+"No_internet" = "No internet connection";
+
+"No_internet_message" = "You must be connected to internet to search for address!";
+
+"uncompleted_tasks" = "Uncompleted Task(s)";
+
+"location_error" = "Location Error";
+
+"location_error_message" = "Please grant this app your location access in settings to proceed";
+
+"go_settings" = "Go to Settings";
+
+"quote1" = "Either you run the day or the day runs you.";
+
+"quote2" = "I’m a greater believer in luck, and I find the harder I work the more I have of it.";
+
+"quote3" = "Opportunity is missed by most people because it is dressed in overalls and looks like work.";
+
+"quote4" = "You\'ve got to get up every morning with determination if you're going to go to bed with satisfaction.";
+
+"quote5" = "Don’t judge each day by the harvest you reap but by the seeds that you plant.";
+
+"quote6" = "Whether you think you can, or you think you can’t – you’re right.";
+
+"quote7" = "Do the hard jobs first. The easy jobs will take care of themselves.";
+
+"quote8" = "Start by doing what’s necessary, then what’s possible; and suddenly you are doing the impossible.";
+
+"quote9" = "You don’t have to see the whole staircase, just take the first step.";
+
+"quote10" = "Happiness is the real sense of fulfillment that comes from hard work.";
+
+"quote11" = "Luck is a matter of preparation meeting opportunity.";

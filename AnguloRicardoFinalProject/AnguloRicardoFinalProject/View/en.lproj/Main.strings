@@ -1,0 +1,225 @@
+
+/* Class = "UILabel"; text = "0 of 5 images"; ObjectID = "1fO-dy-Bpv"; */
+"1fO-dy-Bpv.text" = "0 of 5 images";
+
+/* Class = "UILabel"; text = "When does the project start?"; ObjectID = "2YO-t5-Wj1"; */
+"2YO-t5-Wj1.text" = "When does the project start?";
+
+/* Class = "UINavigationItem"; title = "Project Details"; ObjectID = "2fF-9W-s9b"; */
+"2fF-9W-s9b.title" = "Project Details";
+
+/* Class = "UILabel"; text = "Estimated Duration"; ObjectID = "5Oe-mg-2NM"; */
+"5Oe-mg-2NM.text" = "Estimated Duration";
+
+/* Class = "UISearchBar"; placeholder = "Address"; ObjectID = "6Ix-3Q-GFf"; */
+"6Ix-3Q-GFf.placeholder" = "Address";
+
+/* Class = "UILabel"; text = "What's the project name?"; ObjectID = "6zl-GL-n4G"; */
+"6zl-GL-n4G.text" = "What's the project name?";
+
+/* Class = "UITextField"; placeholder = "Project Name"; ObjectID = "7Vv-WW-DKs"; */
+"7Vv-WW-DKs.placeholder" = "Project Name";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "7YC-87-58I"; */
+"7YC-87-58I.title" = "Title";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "7jQ-eA-i79"; */
+"7jQ-eA-i79.text" = "Location";
+
+/* Class = "UILabel"; text = "Project Name"; ObjectID = "APN-TX-EpI"; */
+"APN-TX-EpI.text" = "Project Name";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "BE6-f2-BH1"; */
+"BE6-f2-BH1.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Completed Tasks"; ObjectID = "C2u-DF-cbN"; */
+"C2u-DF-cbN.title" = "Completed Tasks";
+
+/* Class = "UIButton"; normalTitle = "Toggle Traffic"; ObjectID = "Ddq-Mc-Mnc"; */
+"Ddq-Mc-Mnc.normalTitle" = "Toggle Traffic";
+
+/* Class = "UILabel"; text = "1 hour"; ObjectID = "DfL-wn-KCX"; */
+"DfL-wn-KCX.text" = "1 hour";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FWd-IR-Tve"; */
+"FWd-IR-Tve.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fou-ss-7Zj"; */
+"Fou-ss-7Zj.text" = "Label";
+
+/* Class = "UILabel"; text = "Task Summary"; ObjectID = "FwF-f8-NsU"; */
+"FwF-f8-NsU.text" = "Task Summary";
+
+/* Class = "UIButton"; normalTitle = "Delete Image"; ObjectID = "MVg-49-Xc5"; */
+"MVg-49-Xc5.normalTitle" = "Delete Image";
+
+/* Class = "UIButton"; normalTitle = "Directions"; ObjectID = "OMd-uL-Iza"; */
+"OMd-uL-Iza.normalTitle" = "Directions";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "OSA-Sq-br2"; */
+"OSA-Sq-br2.text" = "About";
+
+/* Class = "UILabel"; text = "Please provide a summary"; ObjectID = "PWT-S3-gA5"; */
+"PWT-S3-gA5.text" = "Please provide a summary";
+
+/* Class = "UILabel"; text = "taskName"; ObjectID = "PXP-Fy-LYA"; */
+"PXP-Fy-LYA.text" = "taskName";
+
+/* Class = "UILabel"; text = "Project was completed as scheduled"; ObjectID = "Pd8-PL-Wdp"; */
+"Pd8-PL-Wdp.text" = "Project was completed as scheduled";
+
+/* Class = "UILabel"; text = "display message"; ObjectID = "Ph7-TF-Djl"; */
+"Ph7-TF-Djl.text" = "display message";
+
+/* Class = "UILabel"; text = "Placemark Name"; ObjectID = "QcT-9t-xcg"; */
+"QcT-9t-xcg.text" = "Placemark Name";
+
+/* Class = "UILabel"; text = "What's your project about?"; ObjectID = "QfC-t1-Hhc"; */
+"QfC-t1-Hhc.text" = "What's your project about?";
+
+/* Class = "UILabel"; text = "Create a New Task"; ObjectID = "Qxt-x7-27R"; */
+"Qxt-x7-27R.text" = "Create a New Task";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "RZ8-UC-g4r"; */
+"RZ8-UC-g4r.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UISegmentedControl"; Uls-HI-e3B.segmentTitles[0] = "Normal"; ObjectID = "Uls-HI-e3B"; */
+"Uls-HI-e3B.segmentTitles[0]" = "Normal";
+
+/* Class = "UISegmentedControl"; Uls-HI-e3B.segmentTitles[1] = "Hybrid"; ObjectID = "Uls-HI-e3B"; */
+"Uls-HI-e3B.segmentTitles[1]" = "Hybrid";
+
+/* Class = "UISegmentedControl"; Uls-HI-e3B.segmentTitles[2] = "Satellite"; ObjectID = "Uls-HI-e3B"; */
+"Uls-HI-e3B.segmentTitles[2]" = "Satellite";
+
+/* Class = "UISegmentedControl"; Uls-HI-e3B.segmentTitles[3] = "Terrain"; ObjectID = "Uls-HI-e3B"; */
+"Uls-HI-e3B.segmentTitles[3]" = "Terrain";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "WlK-eq-TSS"; */
+"WlK-eq-TSS.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Actual Duration"; ObjectID = "X7T-r1-kvp"; */
+"X7T-r1-kvp.text" = "Actual Duration";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XSl-MM-e3C"; */
+"XSl-MM-e3C.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Completed"; ObjectID = "XWA-bw-okr"; */
+"XWA-bw-okr.title" = "Completed";
+
+/* Class = "UILabel"; text = "Time Analysis"; ObjectID = "Y1h-q7-8Fx"; */
+"Y1h-q7-8Fx.text" = "Time Analysis";
+
+/* Class = "UILabel"; text = "Project Saving..."; ObjectID = "YmK-N6-ahk"; */
+"YmK-N6-ahk.text" = "Project Saving...";
+
+/* Class = "UILabel"; text = "AddressValue"; ObjectID = "Zqk-9p-iEQ"; */
+"Zqk-9p-iEQ.text" = "AddressValue";
+
+/* Class = "UILabel"; text = "When time does the project end?"; ObjectID = "a24-HP-LmI"; */
+"a24-HP-LmI.text" = "When time does the project end?";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "bEk-bO-p3L"; */
+"bEk-bO-p3L.text" = "Time";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "bPf-Xo-Csc"; */
+"bPf-Xo-Csc.title" = "Title";
+
+/* Class = "UILabel"; text = "Start Time"; ObjectID = "bWZ-il-q4Y"; */
+"bWZ-il-q4Y.text" = "Start Time";
+
+/* Class = "UILabel"; text = "When was the project actually completed?"; ObjectID = "dB2-ta-98f"; */
+"dB2-ta-98f.text" = "When was the project actually completed?";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "da1-fB-Ff1"; */
+"da1-fB-Ff1.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "e50-kH-4Pe"; */
+"e50-kH-4Pe.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "eDQ-fN-TrU"; */
+"eDQ-fN-TrU.normalTitle" = "Continue";
+
+/* Class = "UIBarButtonItem"; title = "Complete"; ObjectID = "fLb-Qv-AKg"; */
+"fLb-Qv-AKg.title" = "Complete";
+
+/* Class = "UILabel"; text = "Estimated End Time"; ObjectID = "fW3-4a-fHf"; */
+"fW3-4a-fHf.text" = "Estimated End Time";
+
+/* Class = "UISegmentedControl"; flE-Gn-u0w.segmentTitles[0] = "Client"; ObjectID = "flE-Gn-u0w"; */
+"flE-Gn-u0w.segmentTitles[0]" = "Client";
+
+/* Class = "UISegmentedControl"; flE-Gn-u0w.segmentTitles[1] = "Both"; ObjectID = "flE-Gn-u0w"; */
+"flE-Gn-u0w.segmentTitles[1]" = "Both";
+
+/* Class = "UILabel"; text = "[Inspirational Quote goes here]"; ObjectID = "fr4-Vr-37k"; */
+"fr4-Vr-37k.text" = "[Inspirational Quote goes here]";
+
+/* Class = "UITabBarItem"; title = "Uncompleted"; ObjectID = "gPi-j0-hVN"; */
+"gPi-j0-hVN.title" = "Uncompleted";
+
+/* Class = "UILabel"; text = "3 hours"; ObjectID = "gla-bw-PK8"; */
+"gla-bw-PK8.text" = "3 hours";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "glr-oT-oPy"; */
+"glr-oT-oPy.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIViewController"; title = "ProjectDescription"; ObjectID = "ia9-21-LDb"; */
+"ia9-21-LDb.title" = "ProjectDescription";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "jIR-e5-KTe"; */
+"jIR-e5-KTe.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Add To Calendar"; ObjectID = "jIy-J8-r0C"; */
+"jIy-J8-r0C.normalTitle" = "Add To Calendar";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "lbG-re-80B"; */
+"lbG-re-80B.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "DateValue DateValue DateValue DateValue DateValue DateValue DateValue DateValue DateValue "; ObjectID = "leN-vX-V1s"; */
+"leN-vX-V1s.text" = "DateValue DateValue DateValue DateValue DateValue DateValue DateValue DateValue DateValue ";
+
+/* Class = "UILabel"; text = "display message"; ObjectID = "mMg-id-3i8"; */
+"mMg-id-3i8.text" = "display message";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "mfp-eM-O4t"; */
+"mfp-eM-O4t.text" = "Detail";
+
+/* Class = "UIButton"; normalTitle = "Show Map"; ObjectID = "n8w-9S-yJk"; */
+"n8w-9S-yJk.normalTitle" = "Show Map";
+
+/* Class = "UILabel"; text = "This project is overdue"; ObjectID = "pCf-zZ-c5d"; */
+"pCf-zZ-c5d.text" = "This project is overdue";
+
+/* Class = "UILabel"; text = "display message"; ObjectID = "q7a-oI-m3k"; */
+"q7a-oI-m3k.text" = "display message";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "qQG-n0-y31"; */
+"qQG-n0-y31.normalTitle" = "Get Started";
+
+/* Class = "UILabel"; text = "Project Decription"; ObjectID = "qbP-DT-qqZ"; */
+"qbP-DT-qqZ.text" = "Project Decription";
+
+/* Class = "UIButton"; normalTitle = "Add From Photos"; ObjectID = "reA-xT-xC0"; */
+"reA-xT-xC0.normalTitle" = "Add From Photos";
+
+/* Class = "UILabel"; text = "Upload images of the completed project(optional)"; ObjectID = "sAm-55-qJf"; */
+"sAm-55-qJf.text" = "Upload images of the completed project(optional)";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "ttO-ML-88b"; */
+"ttO-ML-88b.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "vff-YF-3cP"; */
+"vff-YF-3cP.text" = "Date";
+
+/* Class = "UIButton"; normalTitle = "Go To Projects"; ObjectID = "wDC-AW-DTF"; */
+"wDC-AW-DTF.normalTitle" = "Go To Projects";
+
+/* Class = "UILabel"; text = "Where is this project?"; ObjectID = "wI4-AQ-S57"; */
+"wI4-AQ-S57.text" = "Where is this project?";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "wLh-1v-oCg"; */
+"wLh-1v-oCg.normalTitle" = "Continue";
+
+/* Class = "UITabBarItem"; title = "Add Task"; ObjectID = "xFe-mF-P1I"; */
+"xFe-mF-P1I.title" = "Add Task";

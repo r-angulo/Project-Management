@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+target 'AnguloRicardoFinalProject' do
+     use_frameworks!
+
+  pod 'GoogleMaps'
+  pod 'GooglePlaces'
+  pod 'Firebase/Storage'
+  pod 'FirebaseUI/Storage'
+
+end
